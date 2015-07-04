@@ -1,6 +1,0 @@
-{
-	"name": "installer",
-	"version": "0.1.0",
-	"index": "index.php",
-	"deps": ["activerecord", "content", "form_builder"]
-}

@@ -1,0 +1,13 @@
+{
+	"name": "pails/installer",
+	"deps": ["activerecord", "content", "form_builder"],
+	"autoload": {
+		"files": ["index.php"]
+	},
+	"require": {
+		"pails/pails": "dev-master",
+		"php-activerecord/php-activerecord": "dev-develop",
+		"pails/content": "dev-master",
+		"pails/form_builder": "dev-master"
+	}
+}
