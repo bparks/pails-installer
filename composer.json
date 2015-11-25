@@ -5,9 +5,9 @@
 		"files": ["index.php"]
 	},
 	"require": {
-		"pails/pails": "dev-master",
+		"pails/pails": "^1.0",
 		"php-activerecord/php-activerecord": "dev-develop",
 		"pails/content": "dev-master",
-		"pails/form_builder": "dev-master"
+		"pails/form_builder": "^1.0"
 	}
 }
